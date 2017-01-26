@@ -1,0 +1,11 @@
+Name	#	Assignment	Shows	Hours1	Hours2	Hours3
+Tex Avery	100	Steward	1	5	5	0
+Bugs Bunny	110	Rigger	0	5	5	0
+Porky Pig	160	Head	1	5	5	0
+Daffy Duck	8010	Grip	1	5	5	0
+Elmer Fudd	8120	Grip	1	5	5	0
+Tweety Bird	10120	Grip	0	5	5	0
+Sylvester Cat	10130	Grip	0	5	5	0
+Yosemite Sam	10210	Grip	0	5	5	0
+Gossamer	10310	Grip	0	5	5	0
+Marvin Martian	10440	Grip	0	5	5	0

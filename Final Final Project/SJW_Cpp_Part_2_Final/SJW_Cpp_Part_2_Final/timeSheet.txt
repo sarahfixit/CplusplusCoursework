@@ -1,0 +1,11 @@
+Name	#	ST	OT	DT	MP	Shows
+Tex Avery	100	8	2	0	0	1
+Bugs Bunny	110	8	2	0	0	0
+Porky Pig	160	8	2	0	0	1
+Daffy Duck	8010	8	2	0	0	1
+Elmer Fudd	8120	8	2	0	0	1
+Tweety Bird	10120	8	2	0	0	0
+Sylvester Cat	10130	8	2	0	0	0
+Yosemite Sam	10210	8	2	0	0	0
+Gossamer	10310	8	2	0	0	0
+Marvin Martian	10440	8	2	0	0	0

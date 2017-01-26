@@ -1,0 +1,10 @@
+Tex Avery	Steward	22	8	176	2	66	0	0		1	110	110	0	352
+Bugs Bunny	Rigger	24	8	192	2	72	0	0		0	0	0	0	264
+Porky Pig	Head	19	8	152	2	57	0	0		1	85	85	0	294
+Daffy Duck	Grip	14	8	112	2	42	0	0		1	60	60	0	214
+Elmer Fudd	Grip	14	8	112	2	42	0	0		1	60	60	0	214
+Tweety Bird	Grip	12	8	96	2	36	0	0		0	50	0	0	132
+Sylvester Cat	Grip	12	8	96	2	36	0	0		0	50	0	0	132
+Yosemite Sam	Grip	12	8	96	2	36	0	0		0	50	0	0	132
+Gossamer	Grip	12	8	96	2	36	0	0		0	50	0	0	132
+Marvin Martian	Grip	12	8	96	2	36	0	0		0	50	0	0	132
